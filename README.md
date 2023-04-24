@@ -12,3 +12,5 @@ This is a simple Google landing page in React.
   - SearchForm
   - Footer
 
+## Demo
+=> [https://m-housni.github.io/google-landing-page-in-react/](https://m-housni.github.io/google-landing-page-in-react/)
