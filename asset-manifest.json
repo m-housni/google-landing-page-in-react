@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/google-landing-page-in-react/static/css/main.e896bfc1.css",
+    "main.js": "/google-landing-page-in-react/static/js/main.6d5b94a8.js",
+    "index.html": "/google-landing-page-in-react/index.html",
+    "main.e896bfc1.css.map": "/google-landing-page-in-react/static/css/main.e896bfc1.css.map",
+    "main.6d5b94a8.js.map": "/google-landing-page-in-react/static/js/main.6d5b94a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e896bfc1.css",
+    "static/js/main.6d5b94a8.js"
+  ]
+}
